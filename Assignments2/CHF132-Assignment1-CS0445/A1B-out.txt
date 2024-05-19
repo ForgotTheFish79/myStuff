@@ -1,0 +1,36 @@
+Buffer Initialized
+Size: 7 Capacity: 8 Contents: 
+Name: Bleach Volume: 128.0 oz. Price: 1.28 Name: Milk Volume: 128.0 oz. Price: 3.84 Name: TV Price: 1200.0 Name: Phone Price: 1000.0 Name: Sugar Weight: 80.0 oz. Price: 0.4 Name: Salt Weight: 400.0 oz. Price: 4.0 Name: Candy Price: 1.75 
+Buffer Saved to File
+Buffer Cleared
+Size: 0 Capacity: 8 Contents: 
+
+Read in Name: Bleach Volume: 128.0 oz. Price: 1.28
+Read in Name: Milk Volume: 128.0 oz. Price: 3.84
+Read in Name: TV Price: 1200.0
+Read in Name: Phone Price: 1000.0
+Read in Name: Sugar Weight: 80.0 oz. Price: 0.4
+Read in Name: Salt Weight: 400.0 oz. Price: 4.0
+Read in Name: Candy Price: 1.75
+Buffer restored
+
+Here is the data:
+Name: Bleach Volume: 128.0 oz. Price: 1.28
+Name: Milk Volume: 128.0 oz. Price: 3.84
+Name: TV Price: 1200.0
+Name: Phone Price: 1000.0
+Name: Sugar Weight: 80.0 oz. Price: 0.4
+Name: Salt Weight: 400.0 oz. Price: 4.0
+Name: Candy Price: 1.75
+
+Sorting the data
+
+Here is the data:
+Name: Sugar Weight: 80.0 oz. Price: 0.4
+Name: Bleach Volume: 128.0 oz. Price: 1.28
+Name: Candy Price: 1.75
+Name: Milk Volume: 128.0 oz. Price: 3.84
+Name: Salt Weight: 400.0 oz. Price: 4.0
+Name: Phone Price: 1000.0
+Name: TV Price: 1200.0
+

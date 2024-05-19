@@ -1,0 +1,101 @@
+0 added to queue
+2 added to queue
+4 added to queue
+6 added to queue
+8 added to queue
+10 added to queue
+12 added to queue
+14 added to queue
+
+Saving the queue to a file
+The queue is empty
+Read in 0
+Read in 2
+Read in 4
+Read in 6
+Read in 8
+Read in 10
+Read in 12
+Read in 14
+Buffer restored
+
+0 retrieved from queue
+2 retrieved from queue
+4 retrieved from queue
+6 retrieved from queue
+8 retrieved from queue
+10 retrieved from queue
+12 retrieved from queue
+14 retrieved from queue
+Cannot dequeue from an empty queue
+
+Enqueuing Item1
+Enqueuing Item2
+Dequeuing Item1
+Enqueuing Item3
+Dequeuing Item2
+Enqueuing Item4
+Dequeuing Item3
+Enqueuing Item5
+Dequeuing Item4
+Enqueuing Item6
+Dequeuing Item5
+Enqueuing Item7
+Dequeuing Item6
+Enqueuing Item8
+Dequeuing Item7
+Enqueuing Item9
+Dequeuing Item8
+Here is the MyBuffer:
+Size: 1 Capacity: 6 Contents: 
+Item9 
+
+Enqueuing Item10
+Enqueuing Item11
+Enqueuing Item12
+Enqueuing Item13
+Enqueuing Item14
+Enqueuing Item15
+Enqueuing Item16
+Enqueuing Item17
+Enqueuing Item18
+Enqueuing Item19
+Here is the MyBuffer:
+Size: 11 Capacity: 12 Contents: 
+Item9 Item10 Item11 Item12 Item13 Item14 Item15 Item16 Item17 Item18 Item19 
+
+Dequeueing Item9
+Dequeueing Item10
+Dequeueing Item11
+Dequeueing Item12
+Dequeueing Item13
+Dequeueing Item14
+Dequeueing Item15
+Dequeueing Item16
+Dequeueing Item17
+Dequeueing Item18
+Dequeueing Item19
+Here is the MyBuffer:
+Size: 0 Capacity: 12 Contents: 
+
+Enqueuing Item20
+Enqueuing Item21
+Enqueuing Item22
+Enqueuing Item23
+Enqueuing Item24
+Here is the MyBuffer:
+Size: 5 Capacity: 12 Contents: 
+Item20 Item21 Item22 Item23 Item24 
+
+Adding some Integers...
+Size: 9 Capacity: 10 Contents: 
+0 1 2 3 4 5 6 7 8 
+Reversing the data...
+Size: 9 Capacity: 10 Contents: 
+8 7 6 5 4 3 2 1 0 
+Dequeue 3 items, enqueue 2 items...
+Size: 8 Capacity: 10 Contents: 
+5 4 3 2 1 0 9 10 
+Reversing again...
+Size: 8 Capacity: 10 Contents: 
+10 9 0 1 2 3 4 5 
